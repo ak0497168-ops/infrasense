@@ -1,0 +1,6 @@
+{
+  "name": "InfraSense",
+  "description": "Predictive maintenance and citizen reporting platform for public infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
